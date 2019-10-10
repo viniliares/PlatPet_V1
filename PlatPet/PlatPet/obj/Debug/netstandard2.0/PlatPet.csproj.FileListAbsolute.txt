@@ -1,0 +1,45 @@
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.deps.json
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageCadastroUsuarioView.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewAgendarConsulta.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoA.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoB.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoC.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewCarregando.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewCategorias.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageView.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageViewDetail.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageViewMaster.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\TabbedPageViewTelaInicial.xaml.g.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csproj.CoreCompileInputs.cache
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfoInputs.cache
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfo.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csprojAssemblyReference.cache
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.deps.json
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageCadastroUsuarioView.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewAgendarConsulta.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoA.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoB.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewApresentacaoC.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewCarregando.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\ContentPageViewCategorias.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageView.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageViewDetail.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\MasterDetailsPageViewMaster.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\TabbedPageViewTelaInicial.xaml.g.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csproj.CoreCompileInputs.cache
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfoInputs.cache
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfo.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.pdb

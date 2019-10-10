@@ -1,0 +1,206 @@
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.Android.dll
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname.apk
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname-Signed.apk
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.nuget.stamp
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csprojAssemblyReference.cache
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res.flag
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csproj.CoreCompileInputs.cache
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\XamlC.stamp
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csproj.CopyComplete
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.dll
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\bin\com.companyname.apk
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\values\styles.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\values\colors.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao3.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca3.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.cs.flag
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.txt
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\uploadflags.txt
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\FormsViewGroup.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Mono.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\mscorlib.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Xml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Net.Http.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Data.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Numerics.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Transactions.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.IO.Compression.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Web.Services.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Mono.Security.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll.mdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.dll.mdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\PlatPet.dll.mdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\PlatPet.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.Android.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname.apk
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname-Signed.apk
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.nuget.stamp
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csprojAssemblyReference.cache
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res.flag
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csproj.CoreCompileInputs.cache
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\XamlC.stamp
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csproj.CopyComplete
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\bin\com.companyname.apk
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\values\styles.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\values\colors.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao1.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao2.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao3.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig1.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig2.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca1.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca2.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca3.png
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.cs.flag
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.txt
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\uploadflags.txt
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\FormsViewGroup.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Mono.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\mscorlib.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Newtonsoft.Json.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Core.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Xml.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Net.Http.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Data.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Numerics.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Transactions.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.IO.Compression.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\System.Web.Services.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\Mono.Security.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Newtonsoft.Json.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll.mdb
+D:\Vinicius\Teste\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.dll.mdb
