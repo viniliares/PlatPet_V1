@@ -844,21 +844,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\viniciuslira\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinicius\\Teste\\PlatPet\\PlatPet\\PlatPet.Android\\PlatPet.Android.csproj",
+      "projectUniqueName": "C:\\Users\\viniciuslira\\PlatPetMobile\\PlatPet\\PlatPet.Android\\PlatPet.Android.csproj",
       "projectName": "PlatPet.Android",
-      "projectPath": "D:\\Vinicius\\Teste\\PlatPet\\PlatPet\\PlatPet.Android\\PlatPet.Android.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinicius\\Teste\\PlatPet\\PlatPet\\PlatPet.Android\\obj\\",
+      "projectPath": "C:\\Users\\viniciuslira\\PlatPetMobile\\PlatPet\\PlatPet.Android\\PlatPet.Android.csproj",
+      "packagesPath": "C:\\Users\\viniciuslira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\viniciuslira\\PlatPetMobile\\PlatPet\\PlatPet.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\viniciuslira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -870,8 +875,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\Vinicius\\Teste\\PlatPet\\PlatPet\\PlatPet\\PlatPet.csproj": {
-              "projectPath": "D:\\Vinicius\\Teste\\PlatPet\\PlatPet\\PlatPet\\PlatPet.csproj"
+            "C:\\Users\\viniciuslira\\PlatPetMobile\\PlatPet\\PlatPet\\PlatPet.csproj": {
+              "projectPath": "C:\\Users\\viniciuslira\\PlatPetMobile\\PlatPet\\PlatPet\\PlatPet.csproj"
             }
           }
         }
