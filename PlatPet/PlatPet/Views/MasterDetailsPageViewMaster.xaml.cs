@@ -26,10 +26,15 @@ namespace PlatPet.Views
         public MasterDetailsPageViewMaster()
         {
             InitializeComponent();
-            OpcoesMenu = new[] {
+            OpcoesMenu = new[] 
+            {
                 new MasterDetailsPageViewMenuItem {Id = 0, Title = "Meus Pets",
-                TargetType = typeof(ContentPageViewApresentacaoA)}
+                    TargetType = typeof(ContentPageViewApresentacaoA)}
 
+                ,
+
+                new MasterDetailsPageViewMenuItem {Id = 0, Title = "Usuários",
+                    TargetType = typeof(ContentPageCadastroUsuarioView)}
 
         };
             ListView = MenuItemsListView;
