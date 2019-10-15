@@ -35,21 +35,58 @@ namespace PlatPet.ViewModel.CadastroUsuario
 
         private async Task GravarAsync()
         {
-            var ehNovoUsuario = (UsuarioPessoa.IdPessoa == 0 ? true : false);
-            UsuarioPessoa.StatusUsuario = "2";
-            UsuarioPessoa.TipoUsuario = 1;
+            var ehNovoUsuario = (UsuarioPessoa.IdEP == 0 ? true : false);
+
+            await uService.PostUsuarioPessoaAsync(UsuarioPessoa);
+
+            //Chamada ao método que limpa os campos da tela
+            AtualizarPropriedadesParaVisao(ehNovoUsuario);
         }
 
-        /*private void AtualizarPropriedadesParaVisao(bool ehNovoObjeto)
+        //Método que limpa as propriedades da ViewModel, que por sua vez, limpa a View
+        private void AtualizarPropriedadesParaVisao(bool ehNovoObjeto)
         {
-            if (ehNovoObjeto)
+             if (ehNovoObjeto)
             {
-
+                this.Nome = string.Empty;
+                this.Sobrenome = string.Empty;
+                this.Usuario = string.Empty;
+                this.Senha = string.Empty;
+                this.Nome = string.Empty;
+                this.Sobrenome = string.Empty;
+                this.CPF = string.Empty;
+                this.Telefone = string.Empty;
+                this.Email = string.Empty;
+                this.Endereco = string.Empty;
+                this.TipoUsuario = 0;
+                this.StatusUsuario =0;
                 this.UsuarioPessoa = new UsuarioPessoa();
             }
-        }*/
+        }
 
-        
+        /*Inserido em 14/10*/
+        public int StatusUsuario
+        {
+            get { return this.UsuarioPessoa.StatusUsuario; }
+            set
+            {
+                this.UsuarioPessoa.StatusUsuario = value;
+                OnPropertyChanged();
+            }
+        }
+
+        public int TipoUsuario
+        {
+            get { return this.UsuarioPessoa.TipoUsuario; }
+            set
+            {
+                this.UsuarioPessoa.TipoUsuario = value;
+                OnPropertyChanged();
+            }
+        }
+        /*Fim trecho inserido em 14/10*/
+
+
         public string Usuario
         {
             get { return this.UsuarioPessoa.UserUsuario; }
@@ -62,11 +99,11 @@ namespace PlatPet.ViewModel.CadastroUsuario
 
         public string Nome
         {
-            get { return this.UsuarioPessoa.NomePessoa; }
+            get { return this.UsuarioPessoa.NomeEP; }
             set
             {
                 //Atribuirá valor a propriedade
-                this.UsuarioPessoa.NomePessoa = value;
+                this.UsuarioPessoa.NomeEP = value;
 
                 //Atuálizará a propriedade ligada a view
                 //Método presente na classe herdada
@@ -76,10 +113,10 @@ namespace PlatPet.ViewModel.CadastroUsuario
 
         public string Sobrenome
         {
-            get { return this.UsuarioPessoa.SobrenomePessoa; }
+            get { return this.UsuarioPessoa.SnomeEP; }
             set
             {
-                this.UsuarioPessoa.SobrenomePessoa = value;
+                this.UsuarioPessoa.SnomeEP = value;
                 OnPropertyChanged();
             }
         }
@@ -96,42 +133,43 @@ namespace PlatPet.ViewModel.CadastroUsuario
 
         public string CPF
         {
-            get { return this.UsuarioPessoa.CPFPessoa; }
+            get { return this.UsuarioPessoa.CGCEP; }
             set
             {
-                this.UsuarioPessoa.CPFPessoa = value;
+                this.UsuarioPessoa.CGCEP = value;
                 OnPropertyChanged();
             }
         }
 
         public string Telefone
         {
-            get { return this.UsuarioPessoa.TelefonePessoa; }
+            get { return this.UsuarioPessoa.TelEP; }
             set
             {
-                this.UsuarioPessoa.TelefonePessoa = value;
+                this.UsuarioPessoa.TelEP = value;
                 OnPropertyChanged();
             }
         }
 
         public string Email
         {
-            get { return this.UsuarioPessoa.EmailPessoa; }
+            get { return this.UsuarioPessoa.EmailEP; }
             set
             {
-                this.UsuarioPessoa.EmailPessoa = value;
+                this.UsuarioPessoa.EmailEP = value;
                 OnPropertyChanged();
             }
         }
 
         public string Endereco
         {
-            get { return this.UsuarioPessoa.EnderecoPessoa; }
+            get { return this.UsuarioPessoa.EndEP; }
             set
             {
-                this.UsuarioPessoa.EnderecoPessoa = value;
+                this.UsuarioPessoa.EndEP = value;
                 OnPropertyChanged();
             }
         }
+
     }
 }

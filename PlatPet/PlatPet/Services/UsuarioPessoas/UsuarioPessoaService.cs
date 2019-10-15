@@ -36,8 +36,13 @@ namespace PlatPet.Services.UsuarioPessoas
         {
             if (c.IdUsuario == 0)
             {
+                //Errado
+                //string urlComplementar = string.Format("/I/{0}", c.TipoUsuario);
+                //return await _request.PostAsync(ApiUrlBase, c);
+
                 string urlComplementar = string.Format("/I/{0}", c.TipoUsuario);
-                return await _request.PostAsync(ApiUrlBase, c);
+                return await _request.PostAsync(ApiUrlBase + urlComplementar, c);
+
             }
             else
                 return await _request.PutAsync(ApiUrlBase, c);

@@ -7,6 +7,7 @@ C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\PlatPet.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Core.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.dll
+C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Runtime.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Xml.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
@@ -36,6 +37,7 @@ C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Drawing.Common.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\netstandard.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Data.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Numerics.dll
 C:\Users\viniciuslira\PlatPetMobile\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Transactions.dll

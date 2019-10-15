@@ -21,6 +21,13 @@
                 <Entry Text="{Binding Email}"></Entry>
                 <Label Text="Endereço"></Label>
                 <Entry Text="{Binding Endereco}"></Entry>
+                
+                <Label Text="Tipo de Usuário"></Label>
+                <Entry Text="{Binding TipoUsuario}"></Entry>
+
+                <Label Text="Status"></Label>
+                <Entry Text="{Binding StatusUsuario}"></Entry>
+                
                 <Button Text="Confirmar" BackgroundColor="#E28249" Command="{Binding GravarCommand}"></Button>
             </StackLayout>
         </ScrollView>

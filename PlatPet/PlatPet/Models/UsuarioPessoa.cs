@@ -9,14 +9,15 @@ namespace PlatPet.Models
         public int IdUsuario { get; set; }
         public string UserUsuario { get; set; }
         public string PassUsuario { get; set; }
-        public string StatusUsuario { get; set; }
+        public int StatusUsuario { get; set; }
         public int TipoUsuario { get; set; }
-        public int IdPessoa { get; set; }
-        public string NomePessoa { get; set; }
-        public string SobrenomePessoa { get; set; }
-        public string CPFPessoa { get; set; }
-        public string TelefonePessoa { get; set; }
-        public string EmailPessoa { get; set; }
-        public string EnderecoPessoa { get; set; }
+        public int IdEP { get; set; }
+        public string NomeEP { get; set; }
+        public string SnomeEP { get; set; }
+        public string CGCEP { get; set; }
+        public string TelEP { get; set; }
+        public string EmailEP { get; set; }
+        public string EndEP { get; set; }
+    
     }
 }
