@@ -6,11 +6,12 @@ namespace PlatPet.Models
 {
     public class Pet
     {
-        public int Id { get; set; }
-        public int IdUsuario { get; set; }
+        public int IdPet { get; set; }
+        public int IdPessoa { get; set; }
         public string NomePet { get; set; }
-        public int Especie { get; set; }
-        public int SubEspecie { get; set; }
-        public string Rg { get; set; }
+       //Pet não possui especie? public int Especie { get; set; }
+        public int IdSubespecie { get; set; }
+        public string RGPet { get; set; }
+        public string ObsPet { get; set; }
     }
 }

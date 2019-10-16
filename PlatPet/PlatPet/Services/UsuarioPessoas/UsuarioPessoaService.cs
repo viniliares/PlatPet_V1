@@ -26,8 +26,8 @@ namespace PlatPet.Services.UsuarioPessoas
 
         public async Task<ObservableCollection<UsuarioPessoa>> GetUsuarioPessoaAsync()
         {
-            ObservableCollection<Models.UsuarioPessoa> usuarioPessoa = await
-                _request.GetAsync<ObservableCollection<Models.UsuarioPessoa>>(ApiUrlBase);
+            ObservableCollection<UsuarioPessoa> usuarioPessoa = await
+                _request.GetAsync<ObservableCollection<UsuarioPessoa>>(ApiUrlBase);
 
             return usuarioPessoa;
         }
@@ -51,7 +51,7 @@ namespace PlatPet.Services.UsuarioPessoas
         public async Task<UsuarioPessoa> PutUsuarioPessoaAsync(UsuarioPessoa c)
         {
             string urlComplementar = string.Format("/U/{0}", c.IdUsuario);
-            var result = await _request.PutAsync(ApiUrlBase, c);
+            var result = await _request.PutAsync(ApiUrlBase + urlComplementar, c);
             return result;
         }
     }

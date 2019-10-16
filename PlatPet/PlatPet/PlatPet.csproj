@@ -10,8 +10,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Services\NewFolder1\**" />
+    <Compile Remove="Services\NewFolder2\**" />
+    <Compile Remove="Services\NewFolder\**" />
     <Compile Remove="Servicos\**" />
+    <EmbeddedResource Remove="Services\NewFolder1\**" />
+    <EmbeddedResource Remove="Services\NewFolder2\**" />
+    <EmbeddedResource Remove="Services\NewFolder\**" />
     <EmbeddedResource Remove="Servicos\**" />
+    <None Remove="Services\NewFolder1\**" />
+    <None Remove="Services\NewFolder2\**" />
+    <None Remove="Services\NewFolder\**" />
     <None Remove="Servicos\**" />
   </ItemGroup>
 
@@ -21,40 +30,40 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Views\MasterDetailsPageViewMenuItem.cs">
+    <Compile Update="Views\Menu\MasterDetailsPageViewMenuItem.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Views\ContentPageCadastroUsuarioView.xaml">
+    <EmbeddedResource Update="Views\Cadastros\ContentPageCadastroUsuarioView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\ContentPageViewAgendarConsulta.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\ContentPageViewApresentacaoA.xaml">
+    <EmbeddedResource Update="Views\Apresentacao\ContentPageViewApresentacaoA.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\ContentPageViewApresentacaoB.xaml">
+    <EmbeddedResource Update="Views\Apresentacao\ContentPageViewApresentacaoB.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\ContentPageViewApresentacaoC.xaml">
+    <EmbeddedResource Update="Views\Apresentacao\ContentPageViewApresentacaoC.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\ContentPageViewCarregando.xaml">
+    <EmbeddedResource Update="Views\Apresentacao\ContentPageViewCarregando.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\ContentPageViewCategorias.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\MasterDetailsPageView.xaml">
+    <EmbeddedResource Update="Views\Menu\MasterDetailsPageView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\MasterDetailsPageViewDetail.xaml">
+    <EmbeddedResource Update="Views\Menu\MasterDetailsPageViewDetail.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\MasterDetailsPageViewMaster.xaml">
+    <EmbeddedResource Update="Views\Menu\MasterDetailsPageViewMaster.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\TabbedPageViewTelaInicial.xaml">

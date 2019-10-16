@@ -1,8 +1,6 @@
-﻿using System;
+﻿using PlatPet.ViewModel.CadastroUsuario;
+using PlatPet.ViewModel.Pets;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -12,53 +10,56 @@ namespace PlatPet.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ContentPageViewAgendarConsulta : ContentPage
 	{
+        CadastroUsuarioViewModel cadastroUsuarioVieModel;
+        CadastroEmpresaViewModel cadastroEmpresaViewModel;
+        CadastroPetViewModel CadastroPetViewModel;
 		public ContentPageViewAgendarConsulta ()
 		{
 			InitializeComponent ();
 
-            var monkeyList = new List<string>();
-            monkeyList.Add("Alfredo");
-            monkeyList.Add("Valentina");
-            monkeyList.Add("Pistolinha");
-            monkeyList.Add("Maria do Rosario");
+            var lstPet = new List<string>();
+            lstPet.Add("Alfredo");
+            lstPet.Add("Valentina");
+            lstPet.Add("Pistolinha");
+            lstPet.Add("Maria do Rosario");
             ;
 
-            var icker = new Picker { Title = "Selecione seu Pet" };
-            icker.ItemsSource = monkeyList;
-
-           // var monkeyNameLabel = new Label();
-            //monkeyNameLabel.SetBinding(Label.TextProperty, new Binding("SelectedItem", source: picker));
-
-           /* void OnPickerSelectedIndexChanged(object sender, EventArgs e)
-            {
-                var picker = (Picker)sender;
-                int selectedIndex = picker.SelectedIndex;
-
-               // if (selectedIndex != -1)
-                //{
-                  //  monkeyNameLabel.Text = (string)picker.ItemsSource[selectedIndex];
-                //}
-            }*/
+            var pet = new Picker { Title = "Selecione seu Pet" };
+            pet.ItemsSource = lstPet;
 
 
-            var list = new List<string>();
-            list.Add("30,00 Banho");
-            list.Add("35,00 Banho Tosa");
+            var lstServico = new List<string>();
+            lstServico.Add("30,00 Banho");
+            lstServico.Add("35,00 Banho Tosa");
             
             
 
-            var pppicker = new Picker { Title = "Selecione seu Pet" };
-            pppicker.ItemsSource = list;
+            var servico = new Picker { Title = "Selecione seu Pet" };
+            servico.ItemsSource = lstServico;
 
-            var ilist = new List<string>();
-            ilist.Add("Dinheiro");
-            ilist.Add("Cartão de Crédito");
-            ilist.Add("Cartão de Débito");
-            ilist.Add("PetCash");
+            var lstPagamento = new List<string>();
+            lstPagamento.Add("Dinheiro");
+            lstPagamento.Add("Cartão de Crédito");
+            lstPagamento.Add("Cartão de Débito");
+            lstPagamento.Add("PetCash");
            
 
-            var ppicker = new Picker { Title = "Selecione seu Pet" };
-            pppicker.ItemsSource = list;
+            var pagamento = new Picker { Title = "Selecione seu Pet" };
+            pagamento.ItemsSource = lstPagamento;
         }
-	}
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            MessagingCenter.Subscribe<string>(this, "InformacaoCRUD", async (msg) =>
+            {
+                await DisplayAlert("Informação", msg, "OK");
+            });
+        }
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            MessagingCenter.Unsubscribe<string>(this, "InformacaoCRUD");
+        }
+    }
 }
